@@ -3,7 +3,7 @@ Numeric dictionary generator
 Make numeric dictionaries with random permutation only using your Bash.
 
 # Prerequisites
-- [coreutils (needed for shuf)](https://www.gnu.org/software/coreutils/)
+- [GNU core utilities (needed for shuf)](https://www.gnu.org/software/coreutils/). Already installed with most Linux distros.
 
 # Usage
 ```
